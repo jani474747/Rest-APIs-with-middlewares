@@ -1,0 +1,23 @@
+{
+  "name": "rest-apis-with-middlewares",
+  "version": "1.0.0",
+  "description": "Day3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jani474747/Rest-APIs-with-middlewares.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jani474747/Rest-APIs-with-middlewares/issues"
+  },
+  "homepage": "https://github.com/jani474747/Rest-APIs-with-middlewares#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
